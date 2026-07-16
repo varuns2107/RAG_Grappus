@@ -9,4 +9,4 @@ Types of Machine Learning:
 2. Unsupervised Learning: Finding patterns in unlabeled data
 3. Reinforcement Learning: Learning through rewards and penalties
 
-Applications include image recognition, speech processing, and recommendation systems
+Applications include image recognition, speech processing, and recommendation systems.
